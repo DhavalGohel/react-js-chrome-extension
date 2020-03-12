@@ -35,5 +35,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 1. Build the react code using `yarn build`
 2. Make changes `manifest.json` as per your requirement.
 3. In Chrome browser, go to chrome://extensions page and switch on developer mode. This enables the ability to locally install a Chrome extension.
+![Test Image 1](assets/1_kA5czD5o5PQGtuiDRO89hQ.png)
 4. Now click on the LOAD UNPACKED and browse to [PROJECT_HOME]/build ,This will install the React app as a Chrome extension.
+![Test Image 2](assets/1_OaygCwLSwLakyTqCADbmDw.png)
 5. When you click the extension icon, you will see the React app, rendered as a extension popup.
