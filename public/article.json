@@ -1,0 +1,500 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "source": { "id": null, "name": "Mybusiness.com.au" },
+      "author": "ESET Software Australia, Content Sponsor",
+      "title": "5 cyber security trends in 2020 businesses need to know | My Business - My Business",
+      "description": "Promoted by ESET Software Australia\r\nFor most businesses, the new year is an exciting time. The first quarter of the year is an opportunity to take stock of the achievements of the previous 12 months and start planning ahead for the months to come. In the wor…",
+      "url": "https://www.mybusiness.com.au/technology/6733-5-cyber-security-trends-in-2020-businesses-need-to-know",
+      "urlToImage": "https://www.mybusiness.com.au/images/ads/5_cyber_security_trends_in_2020_businesses_need_to_know.jpg",
+      "publishedAt": "2020-03-11T06:14:00Z",
+      "content": "As Australian businesses continue to move their operations online, large corporations and small to medium enterprises (SMEs) alike are grappling with increasingly savvy cyber attacks. According to Business Victoria, such attacks can cost businesses an average… [+5384 chars]"
+    },
+    {
+      "id": 2,
+      "source": { "id": null, "name": "Haberturk.com" },
+      "author": "Habertürk",
+      "title": "'Bitcoin Safiye' serbest!",
+      "description": "Son dakika haberleri... Aydın'da kendisini 'ekonomist-broker' olarak tanıtıp farklı meslek gruplarından 40 kişiyi 600 bitcoin karşılığı yaklaşık 30 milyon TL dolandırdığı iddiası edilen Safiye Gekçe Y. günlerce konuşulmuştu. Bursa'da geçen kasım ayında yakala…",
+      "url": "https://www.haberturk.com/son-dakika-haberler-30-milyonluk-vurgun-bitcoin-safiye-serbest-2609958",
+      "urlToImage": "https://im.haberturk.com/2020/03/11/ver1583905090/2609958_1200x627.jpg",
+      "publishedAt": "2020-03-11T05:38:10Z",
+      "content": "Aydn'da kendisini 'ekonomist-broker' olarak tantp farkl meslek gruplarndan 40 kiiyi 600 bitcoin karl yaklak 30 milyon TL dolandrd iddiasyla tutuklanan Safiye Gökçe Y., yurt dna çk yasa konularak serbest brakld.\r\nAdana'da yaayan Safiye Gökçe Yüce, yaklak 2.5 y… [+3861 chars]"
+    },
+    {
+      "id": 3,
+      "source": { "id": null, "name": "Lupa.cz" },
+      "author": "redakce@lupa.cz (Lupa.cz: Karel Wolf)",
+      "title": "[článek] Je Bitcoin legitimní pojistkou proti geopolitické nejistotě? A co další kryptoměny?",
+      "description": "[4 minuty čtení] Teze o Bitcoinu coby pojistce před selháním globální ekonomiky existuje skoro stejně dlouho jako kryptoměna samotná. Doposud ale chyběla seriózní studie vztahu GPR indexu na jeho cenu a cenu jiných krypotměn. Platí teze, že se budou v době zv…",
+      "url": "https://www.lupa.cz/clanky/je-bitcoin-legitimnim-nastrojem-hedgeovani-proti-geopoliticke-nejistote/",
+      "urlToImage": "https://i.iinfo.cz/images/49/kryptomeny-bitcoin-cena-graf-1.jpg",
+      "publishedAt": "2020-03-11T05:30:00Z",
+      "content": "Platí teze, e se budou v dob zvýeného rizika investoi pesouvat k Bitcoinu a kryptomnám?\r\nSeriozní akademické zkoumání na toto téma dlouho chyblo. Ekonomické oddlení  University of Pretoria ale te publikovalo  a nutno íci, e si k tomu nemohlo vybrat píhodnjí d… [+5184 chars]"
+    },
+    {
+      "id": 4,
+      "source": { "id": null, "name": "Allafrica.com" },
+      "author": null,
+      "title": "Kirubi Warns Investors Against Fake Cryptocurrency Platform Using His Name",
+      "description": "[Capital FM] Nairobi -Businessman and industrialist Dr. Chris Kirubi has urged members of the public to exercise extreme caution when making any investments after a cryptocurrency platform illegally used his name as an endorsement.",
+      "url": "https://allafrica.com/stories/202003110029.html",
+      "urlToImage": "https://cdn07.allafrica.com/static/images/structure/aa-logo-rgba-no-text-128x128.png",
+      "publishedAt": "2020-03-11T05:17:10Z",
+      "content": "Nairobi — Businessman and industrialist Dr. Chris Kirubi has urged members of the public to exercise extreme caution when making any investments after a cryptocurrency platform illegally used his name as an endorsement.\r\nThe automatic trading software dubbed … [+1388 chars]"
+    },
+    {
+      "id": 5,
+      "source": { "id": null, "name": "Newsbtc.com" },
+      "author": "Aayush Jindal",
+      "title": "Do or Die For Bitcoin Bulls: Here’s What Could Trigger Short Term Rebound",
+      "description": "Bitcoin is facing a crucial resistance near $8,200 against the US Dollar (as discussed yesterday). BTC price could trade in a range for a few sessions before the next move. Bitcoin is trading in a bearish zone below the $8,200 resistance area against the US D…",
+      "url": "https://www.newsbtc.com/2020/03/11/do-or-die-for-bitcoin-bulls/",
+      "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/03/shutterstock_127419983-1200x780.jpg",
+      "publishedAt": "2020-03-11T05:08:52Z",
+      "content": "Bitcoin is facing a crucial resistance near $8,200 against the US Dollar (as discussed yesterday). BTC price could trade in a range for a few sessions before the next move.\r\n<ul><li>Bitcoin is trading in a bearish zone below the $8,200 resistance area against… [+2323 chars]"
+    },
+    {
+      "id": 6,
+      "source": { "id": null, "name": "Nationalcybersecurity.com" },
+      "author": null,
+      "title": "Weekly Threat Briefing: PwndLocker Ransomware, Key Fob Cloning, Analyzing Trojans, U.S. Primary Election Interference, and More",
+      "description": "In preparation for the presidential primaries, multiple United States government agencies and departments came together to issue a joint statement regarding foreign actors attempting to interfere with the election process. The statement reads that Americans s…",
+      "url": "https://nationalcybersecurity.com/weekly-threat-briefing-pwndlocker-ransomware-key-fob-cloning-analyzing-trojans-u-s-primary-election-interference-and-more/",
+      "urlToImage": "https://nationalcybersecurity.com/wp-content/uploads/651585-1024x225.png",
+      "publishedAt": "2020-03-11T05:07:00Z",
+      "content": "The various threat intelligence stories in this iteration of the Weekly Threat Briefing discuss the following topics: Data breach, Phishing, Ransomware, Trojans, and Vulnerabilities. The IOCs related to these stories are attached to the Weekly Threat Briefing… [+10800 chars]"
+    },
+    {
+      "id": 7,
+      "source": { "id": null, "name": "Dailymail.co.uk" },
+      "author": "By Tom Place For Daily Mail Australia",
+      "title": "Australian Tax Office sends letter to cryptocurrency investors over undeclared earnings",
+      "description": "The letters will be send out to cryptocurrency investors over potential undeclared earnings from the online currency.",
+      "url": "https://www.dailymail.co.uk/news/article-8098245/Australian-Tax-Office-sends-letter-cryptocurrency-investors-undeclared-earnings.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/03/11/02/25814306-0-image-a-7_1583894168774.jpg",
+      "publishedAt": "2020-03-11T05:05:03Z",
+      "content": "Thousands of Australians will soon receive a warning letter from the Tax Office as it cracks down those who left cryptocurrency earnings off their return.\r\nThe ATO will be targeting up to 350,000 Australians who sold cryptocurrency during the 2017/2018 financ… [+2369 chars]"
+    },
+    {
+      "id": 8,
+      "source": { "id": "crypto-coins-news", "name": "Crypto Coins News" },
+      "author": "Francois Aure",
+      "title": "Dow Futures Dive Despite Biden’s Big Win; Trump Misses Virus Briefing",
+      "description": "Dow futures sold off overnight as Joe Biden is locked in as the Democratic nominee and Trump was a no-show at the White-House briefing. The post Dow Futures Dive Despite Biden’s Big Win; Trump Misses Virus Briefing appeared first on CCN.com",
+      "url": "https://www.ccn.com/dow-futures-dive-despite-bidens-big-win-trump-misses-virus-briefing/",
+      "urlToImage": "https://www.ccn.com/wp-content/uploads/2020/03/Joe-Biden-Sstock.jpg",
+      "publishedAt": "2020-03-11T04:52:34Z",
+      "content": "<ul><li>Dow Futures sold off overnight as a shaky stock market gave up a portion of its rally.</li><li>Donald Trump was a no-show at the White House coronavirus briefing, disappointing stock market bulls hoping for a stimulus package.</li><li>Joe Biden has al… [+4488 chars]"
+    },
+    {
+      "id": 9,
+      "source": { "id": null, "name": "Rferl.org" },
+      "author": "Todd Prince",
+      "title": "U.S. Arrests Russian Accused Of Trafficking Personal Data Online",
+      "description": "The United States arrested a Russian citizen on charges of running a vast online marketplace for stolen account credentials, the latest in a series of suspected Russian cybercriminals nabbed during overseas travel.",
+      "url": "https://www.rferl.org/a/u-s-arrests-russian-accused-of-trafficking-personal-data-online/30480890.html",
+      "urlToImage": "https://gdb.rferl.org/A98FF1F9-9527-4BAC-B894-7000335CE4AE_w1200_r1.jpg",
+      "publishedAt": "2020-03-11T03:20:41Z",
+      "content": "WASHINGTON -- The United States arrested a Russian citizen on charges of running a vast online marketplace for stolen account credentials, the latest in a series of suspected Russian cybercriminals nabbed during overseas travel.\r\nFederal Bureau of Investigati… [+3602 chars]"
+    },
+    {
+      "id": 10,
+      "source": { "id": null, "name": "Newsbtc.com" },
+      "author": "Aayush Jindal",
+      "title": "Ethereum Recovery Won’t Be Easy Above $212 As Bulls Fail To Fight Back",
+      "description": "Ethereum is currently consolidating losses above the $190 zone against the US Dollar. ETH price is facing many hurdles on the upside such as $208, $212, and the 100 hourly SMA. Ethereum is not showing any major bullish signs above the $200 level against the U…",
+      "url": "https://www.newsbtc.com/2020/03/11/ethereum-recovery-wont-be-easy-above-212/",
+      "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2020/03/shutterstock_214477618-1200x780.jpg",
+      "publishedAt": "2020-03-11T03:08:30Z",
+      "content": "Ethereum is currently consolidating losses above the $190 zone against the US Dollar. ETH price is facing many hurdles on the upside such as $208, $212, and the 100 hourly SMA.\r\n<ul><li>Ethereum is not showing any major bullish signs above the $200 level agai… [+2231 chars]"
+    },
+    {
+      "id": 11,
+      "source": { "id": null, "name": "Yahoo.com" },
+      "author": "Nathan DiCamillo",
+      "title": "Blockforce Capital’s Crypto Fund Captures 86% of Bitcoin’s Upside in 2020",
+      "description": "The fund has been able to keep more of bitcoin’s gains by reducing the complexity of its models.",
+      "url": "https://finance.yahoo.com/news/blockforce-capital-crypto-fund-captures-030000610.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jE9Par9J.4DZamib0upKLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/lLpy91ue7frRTY67v_B5Lw--~B/aD0xNzA3O3c9MjU2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-US/coindesk_75/7fc9d7d03b20539d64fc2175f45c15fe",
+      "publishedAt": "2020-03-11T03:00:00Z",
+      "content": "In the first two months of 2020, Blockforce Capitals multi-strategy master fund saw a 16.8 percent return compared to a 19.5 percent return in bitcoin, the company announced in a note to accredited investors. \r\nBlockforce is a seasoned ETF issuer which specia… [+2857 chars]"
+    },
+    {
+      "id": 12,
+      "source": { "id": null, "name": "Coindesk.com" },
+      "author": "Nathan DiCamillo",
+      "title": "Blockforce Capital’s Crypto Fund Captures 86% of Bitcoin’s Upside in 2020",
+      "description": "The fund has been able to keep more of bitcoin’s gains by reducing the complexity of its models.",
+      "url": "https://www.coindesk.com/blockforce-capitals-crypto-fund-captures-86-of-bitcoins-upside-in-2020",
+      "urlToImage": "https://www.coindesk.com/wp-content/uploads/2020/03/Eric-Ervin-Photo-Option-2-1200x628.jpg",
+      "publishedAt": "2020-03-11T03:00:00Z",
+      "content": "In the first two months of 2020, Blockforce Capitals multi-strategy master fund saw a 16.8 percent return compared to a 19.5 percent return in bitcoin, the company announced in a note to accredited investors. \r\nBlockforce is a seasoned ETF issuer which specia… [+2991 chars]"
+    },
+    {
+      "id": 13,
+      "source": { "id": null, "name": "Yahoo.co.jp" },
+      "author": "CoinDesk Japan",
+      "title": "9日の急落のなか、ビットコインオプション取引高は過去最高の約200億円超に（CoinDesk Japan）",
+      "description": "3月9日、ビットコインが急落するの中で投資家はリスクヘッジを狙い、ビットコインオプション市場の取引高は過去記録を記録した。仮想通貨デリバティブリサーチ企業スキュー・マーケッツ（Skew Market",
+      "url": "https://headlines.yahoo.co.jp/hl?a=20200311-00063507-coindesk-bus_all",
+      "urlToImage": "https://lpt.c.yimg.jp/amd/20200311-00063507-coindesk-000-view.jpg",
+      "publishedAt": "2020-03-11T02:50:22Z",
+      "content": "3690008PlusToken99009000927640\r\n21Titus Investment AdvisorsCEOJustin GillespieCoinDesk\r\n1121500041\r\nThree Arrows CapitalCEOSu ZhuCoinDesk\r\n1\r\n38798003984100\r\n62500095000\r\n20205\r\n| | Shutterstock/Joseph Sohm | Bitcoin Options Saw Record Volume of $198M Amid Re… [+14 chars]"
+    }
+  ],
+  "questions": [
+    {
+      "articleId": 1,
+      "questions": [
+        {
+          "que": "Which of the following countries has agreed to accept the payment of export of oil and petroleum products to India, in rupee terms instead of dollar or any other currency?",
+          "options": ["Kuwait","UAE", "Iran", "Iraq", "Libya"],
+          "ans": ""
+        },
+        {
+          "que": "As per the newspaper reports Government of India has finally agreed to purchase advanced MRMRs for its naval forces. What are these MRMRs?",
+          "options": ["Aircrafts", "Warships", "Submarines", "Radar Systems", "Rocket Launcher"], 
+          "ans": ""
+        },{
+          "que": "Which of the following agencies/organizations decided to cancel 122 Licenses of 2G Spectrum issued by the Government of India to various companies and asked the Government to do the process afresh? ",
+          "options": ["comptroller and auditor general of India","supreme court of India","telecom regulatory authority of India","confederation of Indian Industry","reserve bank of India"],
+          "ans": ""
+        },{
+          "que" : "Who among the following is the Prime Minister of a country at present and has also won the Presidential Elections held in March 2012? (He had been President of the country twice in the past. This will be his third term as President. He will join office in July 2012)",
+          "options": ["Mohammed Waheed Hassan","Abd. Rabbo Mansour Hadi","Daniel Ortega", "Vladimir Putin","None of these"],
+          "ans": ""
+        },{
+          "que" : "Which of the following countries approved a new constitution of the country in a referendum through secret voting held in February 2012? ",
+          "options":["Libya","Iraq","Iran","UAE","Syria"],
+          "ans": ""
+        }
+      ]
+    },
+    {
+      "articleId": 2,
+      "questions": [
+        {
+          "que": "Which of the following countries has agreed to accept the payment of export of oil and petroleum products to India, in rupee terms instead of dollar or any other currency?",
+          "options": ["Kuwait","UAE", "Iran", "Iraq", "Libya"],
+          "ans": ""
+        },
+        {
+          "que": "As per the newspaper reports Government of India has finally agreed to purchase advanced MRMRs for its naval forces. What are these MRMRs?",
+          "options": ["Aircrafts", "Warships", "Submarines", "Radar Systems", "Rocket Launcher"], 
+          "ans": ""
+        },{
+          "que": "Which of the following agencies/organizations decided to cancel 122 Licenses of 2G Spectrum issued by the Government of India to various companies and asked the Government to do the process afresh? ",
+          "options": ["comptroller and auditor general of India","supreme court of India","telecom regulatory authority of India","confederation of Indian Industry","reserve bank of India"],
+          "ans": ""
+        },{
+          "que" : "Who among the following is the Prime Minister of a country at present and has also won the Presidential Elections held in March 2012? (He had been President of the country twice in the past. This will be his third term as President. He will join office in July 2012)",
+          "options": ["Mohammed Waheed Hassan","Abd. Rabbo Mansour Hadi","Daniel Ortega", "Vladimir Putin","None of these"],
+          "ans": ""
+        },{
+          "que" : "Which of the following countries approved a new constitution of the country in a referendum through secret voting held in February 2012? ",
+          "options":["Libya","Iraq","Iran","UAE","Syria"],
+          "ans": ""
+        }
+      ]
+    },
+    {
+      "articleId": 3,
+      "questions": [
+        {
+          "que": "Which of the following countries has agreed to accept the payment of export of oil and petroleum products to India, in rupee terms instead of dollar or any other currency?",
+          "options": ["Kuwait","UAE", "Iran", "Iraq", "Libya"],
+          "ans": ""
+        },
+        {
+          "que": "As per the newspaper reports Government of India has finally agreed to purchase advanced MRMRs for its naval forces. What are these MRMRs?",
+          "options": ["Aircrafts", "Warships", "Submarines", "Radar Systems", "Rocket Launcher"], 
+          "ans": ""
+        },{
+          "que": "Which of the following agencies/organizations decided to cancel 122 Licenses of 2G Spectrum issued by the Government of India to various companies and asked the Government to do the process afresh? ",
+          "options": ["comptroller and auditor general of India","supreme court of India","telecom regulatory authority of India","confederation of Indian Industry","reserve bank of India"],
+          "ans": ""
+        },{
+          "que" : "Who among the following is the Prime Minister of a country at present and has also won the Presidential Elections held in March 2012? (He had been President of the country twice in the past. This will be his third term as President. He will join office in July 2012)",
+          "options": ["Mohammed Waheed Hassan","Abd. Rabbo Mansour Hadi","Daniel Ortega", "Vladimir Putin","None of these"],
+          "ans": ""
+        },{
+          "que" : "Which of the following countries approved a new constitution of the country in a referendum through secret voting held in February 2012? ",
+          "options":["Libya","Iraq","Iran","UAE","Syria"],
+          "ans": ""
+        }
+      ]
+    },
+    {
+      "articleId": 4,
+      "questions": [
+        {
+          "que": "Which of the following countries has agreed to accept the payment of export of oil and petroleum products to India, in rupee terms instead of dollar or any other currency?",
+          "options": ["Kuwait","UAE", "Iran", "Iraq", "Libya"],
+          "ans": ""
+        },
+        {
+          "que": "As per the newspaper reports Government of India has finally agreed to purchase advanced MRMRs for its naval forces. What are these MRMRs?",
+          "options": ["Aircrafts", "Warships", "Submarines", "Radar Systems", "Rocket Launcher"], 
+          "ans": ""
+        },{
+          "que": "Which of the following agencies/organizations decided to cancel 122 Licenses of 2G Spectrum issued by the Government of India to various companies and asked the Government to do the process afresh? ",
+          "options": ["comptroller and auditor general of India","supreme court of India","telecom regulatory authority of India","confederation of Indian Industry","reserve bank of India"],
+          "ans": ""
+        },{
+          "que" : "Who among the following is the Prime Minister of a country at present and has also won the Presidential Elections held in March 2012? (He had been President of the country twice in the past. This will be his third term as President. He will join office in July 2012)",
+          "options": ["Mohammed Waheed Hassan","Abd. Rabbo Mansour Hadi","Daniel Ortega", "Vladimir Putin","None of these"],
+          "ans": ""
+        },{
+          "que" : "Which of the following countries approved a new constitution of the country in a referendum through secret voting held in February 2012? ",
+          "options":["Libya","Iraq","Iran","UAE","Syria"],
+          "ans": ""
+        }
+      ]
+    },
+    {
+      "articleId": 5,
+      "questions": [
+        {
+          "que": "Which of the following countries has agreed to accept the payment of export of oil and petroleum products to India, in rupee terms instead of dollar or any other currency?",
+          "options": ["Kuwait","UAE", "Iran", "Iraq", "Libya"],
+          "ans": ""
+        },
+        {
+          "que": "As per the newspaper reports Government of India has finally agreed to purchase advanced MRMRs for its naval forces. What are these MRMRs?",
+          "options": ["Aircrafts", "Warships", "Submarines", "Radar Systems", "Rocket Launcher"], 
+          "ans": ""
+        },{
+          "que": "Which of the following agencies/organizations decided to cancel 122 Licenses of 2G Spectrum issued by the Government of India to various companies and asked the Government to do the process afresh? ",
+          "options": ["comptroller and auditor general of India","supreme court of India","telecom regulatory authority of India","confederation of Indian Industry","reserve bank of India"],
+          "ans": ""
+        },{
+          "que" : "Who among the following is the Prime Minister of a country at present and has also won the Presidential Elections held in March 2012? (He had been President of the country twice in the past. This will be his third term as President. He will join office in July 2012)",
+          "options": ["Mohammed Waheed Hassan","Abd. Rabbo Mansour Hadi","Daniel Ortega", "Vladimir Putin","None of these"],
+          "ans": ""
+        },{
+          "que" : "Which of the following countries approved a new constitution of the country in a referendum through secret voting held in February 2012? ",
+          "options":["Libya","Iraq","Iran","UAE","Syria"],
+          "ans": ""
+        }
+      ]
+    },
+    {
+      "articleId": 6,
+      "questions": [
+        {
+          "que": "Which of the following countries has agreed to accept the payment of export of oil and petroleum products to India, in rupee terms instead of dollar or any other currency?",
+          "options": ["Kuwait","UAE", "Iran", "Iraq", "Libya"],
+          "ans": ""
+        },
+        {
+          "que": "As per the newspaper reports Government of India has finally agreed to purchase advanced MRMRs for its naval forces. What are these MRMRs?",
+          "options": ["Aircrafts", "Warships", "Submarines", "Radar Systems", "Rocket Launcher"], 
+          "ans": ""
+        },{
+          "que": "Which of the following agencies/organizations decided to cancel 122 Licenses of 2G Spectrum issued by the Government of India to various companies and asked the Government to do the process afresh? ",
+          "options": ["comptroller and auditor general of India","supreme court of India","telecom regulatory authority of India","confederation of Indian Industry","reserve bank of India"],
+          "ans": ""
+        },{
+          "que" : "Who among the following is the Prime Minister of a country at present and has also won the Presidential Elections held in March 2012? (He had been President of the country twice in the past. This will be his third term as President. He will join office in July 2012)",
+          "options": ["Mohammed Waheed Hassan","Abd. Rabbo Mansour Hadi","Daniel Ortega", "Vladimir Putin","None of these"],
+          "ans": ""
+        },{
+          "que" : "Which of the following countries approved a new constitution of the country in a referendum through secret voting held in February 2012? ",
+          "options":["Libya","Iraq","Iran","UAE","Syria"],
+          "ans": ""
+        }
+      ]
+    },
+    {
+      "articleId": 7,
+      "questions": [
+        {
+          "que": "Which of the following countries has agreed to accept the payment of export of oil and petroleum products to India, in rupee terms instead of dollar or any other currency?",
+          "options": ["Kuwait","UAE", "Iran", "Iraq", "Libya"],
+          "ans": ""
+        },
+        {
+          "que": "As per the newspaper reports Government of India has finally agreed to purchase advanced MRMRs for its naval forces. What are these MRMRs?",
+          "options": ["Aircrafts", "Warships", "Submarines", "Radar Systems", "Rocket Launcher"], 
+          "ans": ""
+        },{
+          "que": "Which of the following agencies/organizations decided to cancel 122 Licenses of 2G Spectrum issued by the Government of India to various companies and asked the Government to do the process afresh? ",
+          "options": ["comptroller and auditor general of India","supreme court of India","telecom regulatory authority of India","confederation of Indian Industry","reserve bank of India"],
+          "ans": ""
+        },{
+          "que" : "Who among the following is the Prime Minister of a country at present and has also won the Presidential Elections held in March 2012? (He had been President of the country twice in the past. This will be his third term as President. He will join office in July 2012)",
+          "options": ["Mohammed Waheed Hassan","Abd. Rabbo Mansour Hadi","Daniel Ortega", "Vladimir Putin","None of these"],
+          "ans": ""
+        },{
+          "que" : "Which of the following countries approved a new constitution of the country in a referendum through secret voting held in February 2012? ",
+          "options":["Libya","Iraq","Iran","UAE","Syria"],
+          "ans": ""
+        }
+      ]
+    },
+    {
+      "articleId": 8,
+      "questions": [
+        {
+          "que": "Which of the following countries has agreed to accept the payment of export of oil and petroleum products to India, in rupee terms instead of dollar or any other currency?",
+          "options": ["Kuwait","UAE", "Iran", "Iraq", "Libya"],
+          "ans": ""
+        },
+        {
+          "que": "As per the newspaper reports Government of India has finally agreed to purchase advanced MRMRs for its naval forces. What are these MRMRs?",
+          "options": ["Aircrafts", "Warships", "Submarines", "Radar Systems", "Rocket Launcher"], 
+          "ans": ""
+        },{
+          "que": "Which of the following agencies/organizations decided to cancel 122 Licenses of 2G Spectrum issued by the Government of India to various companies and asked the Government to do the process afresh? ",
+          "options": ["comptroller and auditor general of India","supreme court of India","telecom regulatory authority of India","confederation of Indian Industry","reserve bank of India"],
+          "ans": ""
+        },{
+          "que" : "Who among the following is the Prime Minister of a country at present and has also won the Presidential Elections held in March 2012? (He had been President of the country twice in the past. This will be his third term as President. He will join office in July 2012)",
+          "options": ["Mohammed Waheed Hassan","Abd. Rabbo Mansour Hadi","Daniel Ortega", "Vladimir Putin","None of these"],
+          "ans": ""
+        },{
+          "que" : "Which of the following countries approved a new constitution of the country in a referendum through secret voting held in February 2012? ",
+          "options":["Libya","Iraq","Iran","UAE","Syria"],
+          "ans": ""
+        }
+      ]
+    },
+    {
+      "articleId": 9,
+      "questions": [
+        {
+          "que": "Which of the following countries has agreed to accept the payment of export of oil and petroleum products to India, in rupee terms instead of dollar or any other currency?",
+          "options": ["Kuwait","UAE", "Iran", "Iraq", "Libya"],
+          "ans": ""
+        },
+        {
+          "que": "As per the newspaper reports Government of India has finally agreed to purchase advanced MRMRs for its naval forces. What are these MRMRs?",
+          "options": ["Aircrafts", "Warships", "Submarines", "Radar Systems", "Rocket Launcher"], 
+          "ans": ""
+        },{
+          "que": "Which of the following agencies/organizations decided to cancel 122 Licenses of 2G Spectrum issued by the Government of India to various companies and asked the Government to do the process afresh? ",
+          "options": ["comptroller and auditor general of India","supreme court of India","telecom regulatory authority of India","confederation of Indian Industry","reserve bank of India"],
+          "ans": ""
+        },{
+          "que" : "Who among the following is the Prime Minister of a country at present and has also won the Presidential Elections held in March 2012? (He had been President of the country twice in the past. This will be his third term as President. He will join office in July 2012)",
+          "options": ["Mohammed Waheed Hassan","Abd. Rabbo Mansour Hadi","Daniel Ortega", "Vladimir Putin","None of these"],
+          "ans": ""
+        },{
+          "que" : "Which of the following countries approved a new constitution of the country in a referendum through secret voting held in February 2012? ",
+          "options":["Libya","Iraq","Iran","UAE","Syria"],
+          "ans": ""
+        }
+      ]
+    },
+    {
+      "articleId": 10,
+      "questions": [
+        {
+          "que": "Which of the following countries has agreed to accept the payment of export of oil and petroleum products to India, in rupee terms instead of dollar or any other currency?",
+          "options": ["Kuwait","UAE", "Iran", "Iraq", "Libya"],
+          "ans": ""
+        },
+        {
+          "que": "As per the newspaper reports Government of India has finally agreed to purchase advanced MRMRs for its naval forces. What are these MRMRs?",
+          "options": ["Aircrafts", "Warships", "Submarines", "Radar Systems", "Rocket Launcher"], 
+          "ans": ""
+        },{
+          "que": "Which of the following agencies/organizations decided to cancel 122 Licenses of 2G Spectrum issued by the Government of India to various companies and asked the Government to do the process afresh? ",
+          "options": ["comptroller and auditor general of India","supreme court of India","telecom regulatory authority of India","confederation of Indian Industry","reserve bank of India"],
+          "ans": ""
+        },{
+          "que" : "Who among the following is the Prime Minister of a country at present and has also won the Presidential Elections held in March 2012? (He had been President of the country twice in the past. This will be his third term as President. He will join office in July 2012)",
+          "options": ["Mohammed Waheed Hassan","Abd. Rabbo Mansour Hadi","Daniel Ortega", "Vladimir Putin","None of these"],
+          "ans": ""
+        },{
+          "que" : "Which of the following countries approved a new constitution of the country in a referendum through secret voting held in February 2012? ",
+          "options":["Libya","Iraq","Iran","UAE","Syria"],
+          "ans": ""
+        }
+      ]
+    },
+    {
+      "articleId": 11,
+      "questions": [
+        {
+          "que": "Which of the following countries has agreed to accept the payment of export of oil and petroleum products to India, in rupee terms instead of dollar or any other currency?",
+          "options": ["Kuwait","UAE", "Iran", "Iraq", "Libya"],
+          "ans": ""
+        },
+        {
+          "que": "As per the newspaper reports Government of India has finally agreed to purchase advanced MRMRs for its naval forces. What are these MRMRs?",
+          "options": ["Aircrafts", "Warships", "Submarines", "Radar Systems", "Rocket Launcher"], 
+          "ans": ""
+        },{
+          "que": "Which of the following agencies/organizations decided to cancel 122 Licenses of 2G Spectrum issued by the Government of India to various companies and asked the Government to do the process afresh? ",
+          "options": ["comptroller and auditor general of India","supreme court of India","telecom regulatory authority of India","confederation of Indian Industry","reserve bank of India"],
+          "ans": ""
+        },{
+          "que" : "Who among the following is the Prime Minister of a country at present and has also won the Presidential Elections held in March 2012? (He had been President of the country twice in the past. This will be his third term as President. He will join office in July 2012)",
+          "options": ["Mohammed Waheed Hassan","Abd. Rabbo Mansour Hadi","Daniel Ortega", "Vladimir Putin","None of these"],
+          "ans": ""
+        },{
+          "que" : "Which of the following countries approved a new constitution of the country in a referendum through secret voting held in February 2012? ",
+          "options":["Libya","Iraq","Iran","UAE","Syria"],
+          "ans": ""
+        }
+      ]
+    },
+    {
+      "articleId": 12,
+      "questions": [
+        {
+          "que": "Which of the following countries has agreed to accept the payment of export of oil and petroleum products to India, in rupee terms instead of dollar or any other currency?",
+          "options": ["Kuwait","UAE", "Iran", "Iraq", "Libya"],
+          "ans": ""
+        },
+        {
+          "que": "As per the newspaper reports Government of India has finally agreed to purchase advanced MRMRs for its naval forces. What are these MRMRs?",
+          "options": ["Aircrafts", "Warships", "Submarines", "Radar Systems", "Rocket Launcher"], 
+          "ans": ""
+        },{
+          "que": "Which of the following agencies/organizations decided to cancel 122 Licenses of 2G Spectrum issued by the Government of India to various companies and asked the Government to do the process afresh? ",
+          "options": ["comptroller and auditor general of India","supreme court of India","telecom regulatory authority of India","confederation of Indian Industry","reserve bank of India"],
+          "ans": ""
+        },{
+          "que" : "Who among the following is the Prime Minister of a country at present and has also won the Presidential Elections held in March 2012? (He had been President of the country twice in the past. This will be his third term as President. He will join office in July 2012)",
+          "options": ["Mohammed Waheed Hassan","Abd. Rabbo Mansour Hadi","Daniel Ortega", "Vladimir Putin","None of these"],
+          "ans": ""
+        },{
+          "que" : "Which of the following countries approved a new constitution of the country in a referendum through secret voting held in February 2012? ",
+          "options":["Libya","Iraq","Iran","UAE","Syria"],
+          "ans": ""
+        }
+      ]
+    },
+    {
+      "articleId": 13,
+      "questions": [
+        {
+          "que": "Which of the following countries has agreed to accept the payment of export of oil and petroleum products to India, in rupee terms instead of dollar or any other currency?",
+          "options": ["Kuwait","UAE", "Iran", "Iraq", "Libya"],
+          "ans": ""
+        },
+        {
+          "que": "As per the newspaper reports Government of India has finally agreed to purchase advanced MRMRs for its naval forces. What are these MRMRs?",
+          "options": ["Aircrafts", "Warships", "Submarines", "Radar Systems", "Rocket Launcher"], 
+          "ans": ""
+        },{
+          "que": "Which of the following agencies/organizations decided to cancel 122 Licenses of 2G Spectrum issued by the Government of India to various companies and asked the Government to do the process afresh? ",
+          "options": ["comptroller and auditor general of India","supreme court of India","telecom regulatory authority of India","confederation of Indian Industry","reserve bank of India"],
+          "ans": ""
+        },{
+          "que" : "Who among the following is the Prime Minister of a country at present and has also won the Presidential Elections held in March 2012? (He had been President of the country twice in the past. This will be his third term as President. He will join office in July 2012)",
+          "options": ["Mohammed Waheed Hassan","Abd. Rabbo Mansour Hadi","Daniel Ortega", "Vladimir Putin","None of these"],
+          "ans": ""
+        },{
+          "que" : "Which of the following countries approved a new constitution of the country in a referendum through secret voting held in February 2012? ",
+          "options":["Libya","Iraq","Iran","UAE","Syria"],
+          "ans": ""
+        }
+      ]
+    }
+  ]
+}
